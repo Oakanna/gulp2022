@@ -1,0 +1,12 @@
+@import "fonts";
+@import "_promo";
+@import "_nullstyle";
+@import "_header";
+* {
+   font-family: "Museo Sans Cyrl";
+}
+
+.container {
+   max-width: 945px;
+   margin: 0 auto;
+}

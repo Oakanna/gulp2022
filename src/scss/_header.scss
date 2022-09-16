@@ -1,0 +1,40 @@
+.header {
+   display: flex;
+   justify-content: space-between;
+   align-items: center;
+   &__logo {
+      img {
+         max-width: 251px;
+      }
+      &:hover {
+      }
+      &:active {
+      }
+      &:focus {
+      }
+   }
+   &__off {
+      color: #fff;
+      span {
+         display: block;
+      }
+   }
+   &__call {
+      a {
+         &:hover {
+         }
+         &:active {
+         }
+         &:focus {
+         }
+      }
+      .button {
+         &:hover {
+         }
+         &:active {
+         }
+         &:focus {
+         }
+      }
+   }
+}
